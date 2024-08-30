@@ -275,8 +275,7 @@ section.module.parallax-2 {
     z-index: 0;
 }
 
-.title-1,
-.title-2 {
+.title {
     visibility: hidden;
 }
 
