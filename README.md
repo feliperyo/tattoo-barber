@@ -3,7 +3,6 @@
 <br>
 <h4 align="center">Projeto responsivo desenvolvido com HTML, CSS e JavaScript.</h4>
 <br>
-<br>
 <div align="center">
   <img width="800px" src="https://github.com/feliperyo/tattoo-barber/blob/main/assets/mockup.png?raw=true"/>
 </div>
