@@ -306,8 +306,22 @@ section.module.parallax-2 {
         font-size: 70px;
     }
 
+    .info {
+        width: 400px;
+    }
+
+    form {
+        width: 400px;
+    }
+
     section.module.parallax {
         height: auto;
+    }
+
+    section.module.parallax {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        height: 130vh !important;
     }
 }
 
@@ -318,14 +332,16 @@ section.module.parallax-2 {
     }
 
     .info {
-        width: 350px;
+        width: 335px;
     }
 
     form {
-        width: 350px;
+        width: 335px;
     }
 
     section.module.parallax {
-        height: 130vh !important;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        height: 180vh !important;
     }
 }
